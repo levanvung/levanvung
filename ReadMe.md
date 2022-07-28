@@ -12,7 +12,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
+###   Dev Meme
 <img src="https://media0.giphy.com/media/3iBcMfGoHJ6KNplykY/giphy.gif"/>
 
 ---
